@@ -12,7 +12,7 @@ VERSION="100.5.2"
 
 # package
 PACKAGE_NAME="mongodb-${OS}-${ARCH}-${VERSION}"
-FILE_NAME="${PACKAGE_NAME}.tgz"
+FILE_NAME="mongodb-database-tools-amazon-x86_64-100.5.3.tgz"
 MONGODB_ARCHIVE="https://fastdl.mongodb.org/tools/db/mongodb-database-tools-amazon-x86_64-100.5.3.tgz"
 
 mkdir -p $CACHE_DIR
